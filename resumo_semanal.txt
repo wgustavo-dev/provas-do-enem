@@ -1,0 +1,183 @@
+Sim. Vou fazer seguindo exatamente a classificação fechada que definimos no protocolo e, principalmente, sem transformar “travou” ou “questão difícil” em uma categoria inventada.
+
+# Relatório semanal — ENEM
+
+**Período: 17/08 a 21/08/2026**
+
+## Segunda-feira — 17/08
+
+### Matemática
+
+* **2016 — questão 136:** acertou e domina.
+* **2017 — questão 145:** errou por não reconhecer padrão.
+* **2018 — questão 149:** acertou e domina.
+* **2022 — questão 163:** acertou e domina.
+* **2023 — questão 176:** acertou e domina.
+* **2024 — questão 156:** acertou e domina.
+
+**Resultado:** 5/6.
+
+### Ciências da Natureza
+
+* **2016 — questão 109:** acertou e domina.
+* **2017 — questão 108:** acertou e domina.
+* **2018 — questão 100:** errou por não reconhecer padrão.
+* **2022 — questão 113:** acertou e domina.
+* **2023 — questão 113:** errou por não reconhecer padrão.
+* **2024 — questão 110:** errou por não reconhecer padrão.
+
+**Resultado:** 3/6.
+
+### Diagnóstico do dia
+
+Matemática apresentou desempenho muito superior ao de Natureza. Em Natureza apareceram três situações importantes de dificuldade de reconhecimento/resolução, que posteriormente continuaram sendo consideradas no planejamento.
+
+---
+
+## Terça-feira — 18/08
+
+Não há registro confiável das questões individuais realizadas neste dia no contexto recuperado.
+
+O registro disponível indica que houve reajuste da estratégia de estudos e que o protocolo continuou sendo estruturado em torno de questões reais do ENEM, priorizando os padrões encontrados nos erros.
+
+**Não vou preencher questões ou resultados que não estejam registrados.**
+
+---
+
+## Quarta-feira — 19/08
+
+Foi realizado o **Horário 1**, mantendo o treinamento baseado em questões reais e reconhecimento de padrões.
+
+O protocolo também foi formalizado nesta semana com uma regra importante: cada questão deve receber uma classificação objetiva entre:
+
+* acertou e domina;
+* acertou por intuição;
+* acertou por chute;
+* errou por chute;
+* errou por falta de atenção;
+* errou por não reconhecer padrão.
+
+Também foi definido que questões difíceis não devem ser simplesmente consideradas como deficiência. A análise deve identificar o motivo real da dificuldade.
+
+Foi reforçado ainda que o estudo deve priorizar questões fáceis/médias de alto retorno e que uma questão pode ser abandonada após aproximadamente 3 minutos de travamento, em vez de consumir uma quantidade desproporcional de tempo.
+
+---
+
+## Quinta-feira — 20/08
+
+O dia teve uma mudança importante de planejamento.
+
+Você informou que teria pouco tempo para estudar em determinados dias e que, quando não fosse possível realizar o Horário 1, isso deveria ser registrado em vez de tentar compensar artificialmente.
+
+Também foi mantida a estratégia de trabalhar principalmente com questões do segundo dia do ENEM e usar os erros anteriores para selecionar os próximos exercícios.
+
+O protocolo passou a enfatizar ainda mais o **reconhecimento ativo de padrões**, em vez de simplesmente revisar teoria passivamente.
+
+---
+
+# Sexta-feira — 21/08
+
+Como você estava cansado e se sentindo fisicamente mal, reduzimos a carga para apenas um Horário 1, com **3 questões de Matemática e 3 de Ciências da Natureza**, seguido do relatório semanal.
+
+Importante: todas foram questões novas, pois você corrigiu corretamente o protocolo quando eu tentei selecionar questões já trabalhadas.
+
+### Matemática
+
+* **2019 — questão 142:** acertou e domina. Você informou que sabia e resolveu de cabeça.
+* **2020 — questão 158:** acertou por intuição. Você conseguiu resolver, mas demorou para reconhecer que se tratava de um tronco de pirâmide.
+* **2021 — questão 174:** acertou e domina. Você conseguiu fazer tranquilamente.
+
+**Resultado:** 3/3.
+
+### Ciências da Natureza
+
+* **2019 — questão 105:** acertou por intuição. Você resolveu utilizando raciocínio lógico.
+* **2020 — questão 116:** errou por não reconhecer padrão. O problema foi estequiometria: você ainda não reconhece os padrões das questões e fica perdido sobre como começar.
+* **2021 — questão 128:** acertou por chute. Você informou que ainda não estudou seno, cosseno e tangente.
+
+**Resultado:** 2/3.
+
+---
+
+# Principais padrões encontrados na semana
+
+## Matemática
+
+O desempenho foi consistentemente bom.
+
+Os principais registros foram:
+
+**Acertou e domina:** grande parte das questões realizadas.
+
+**Acertou por intuição:** apareceu principalmente quando você conseguiu resolver mesmo sem reconhecer imediatamente a estrutura da questão.
+
+**Ponto de atenção:** geometria espacial. A questão **2020-158**, sobre tronco de pirâmide, mostrou que o problema não era incapacidade de resolver, mas demora para reconhecer o objeto matemático.
+
+A Matemática, portanto, está caminhando mais para **consolidação + velocidade de reconhecimento** do que para reconstrução de conteúdo básico.
+
+## Ciências da Natureza
+
+Foi a área mais problemática da semana.
+
+A maior dificuldade não parece ser simplesmente “errar questões”. O padrão observado é:
+
+**não reconhecer o padrão → não saber por onde começar → travar.**
+
+Isso apareceu principalmente nas questões de Natureza que você não conseguiu resolver.
+
+### Estequiometria
+
+É a principal fraqueza identificada na semana.
+
+Na **2020-116**, você explicitamente relatou que ainda não consegue resolver questões de estequiometria, não reconhece os padrões e fica perdido.
+
+Portanto, a prioridade não deve ser simplesmente fazer dezenas de exercícios. Primeiro precisamos construir o reconhecimento dos principais tipos de questão.
+
+### Trigonometria
+
+Na **2021-128**, você chutou porque ainda não estudou seno, cosseno e tangente.
+
+Isso é diferente de uma deficiência em um conteúdo já estudado. Deve ficar registrado como:
+
+**conteúdo ainda não estudado → não utilizar esse resultado para avaliar sua capacidade real em Natureza.**
+
+### Questões de Natureza que exigem investigação
+
+Ficam como pontos de revisão:
+
+* **2018-100:** travou.
+* **2023-113:** errou.
+* **2024-110:** travou.
+* **2020-116:** estequiometria, não reconheceu o padrão.
+
+Essas questões precisam continuar no radar, mas sem serem novamente selecionadas como questões de treino, porque **questão corrigida não volta para a seleção normal**.
+
+---
+
+# Diagnóstico geral da semana
+
+**Matemática:** desempenho forte. O objetivo agora é aumentar velocidade e reconhecimento, principalmente em padrões de geometria que ainda podem causar demora.
+
+**Natureza:** principal área de intervenção. O problema central é reconhecimento de padrões e lacunas específicas de conteúdo.
+
+**Prioridade nº 1:** estequiometria.
+
+**Prioridade nº 2:** iniciar seno, cosseno e tangente.
+
+**Prioridade nº 3:** revisar os travamentos de Natureza e identificar exatamente qual conhecimento estava faltando em cada um.
+
+**Padrão que deve continuar:** questão real do ENEM → tentativa → classificação objetiva → correção → registro do motivo.
+
+**Regra mantida:** nunca selecionar novamente uma questão que já foi corrigida.
+
+**Regra mantida:** questão difícil não significa automaticamente “não sei”. Deve ser separada de erro por não reconhecer padrão.
+
+**Regra mantida:** não inventar classificação quando o motivo real não estiver registrado.
+
+## Resumo numérico do que está efetivamente registrado
+
+**Matemática:** 12 questões registradas na semana recuperada, com desempenho predominantemente positivo.
+
+**Natureza:** 12 questões registradas na semana recuperada, com concentração maior de erros e travamentos.
+
+O dado mais importante da semana não é simplesmente a porcentagem de acertos. É que conseguimos identificar **onde você realmente está perdendo pontos**: em Natureza, especialmente quando não reconhece o padrão da questão; em Matemática, muito mais por velocidade/reconhecimento do que por falta geral de conteúdo.
