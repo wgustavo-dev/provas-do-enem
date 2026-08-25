@@ -1,0 +1,49 @@
+Relatório diário — 24/08/2026
+
+Horário 1 — B1
+
+Foram feitas 6 questões aleatórias da prova de 2019, misturando Matemática e Ciências da Natureza.
+
+Ciências da Natureza:
+• 93 — errou, marcou A; gabarito E. Motivo do erro não ficou determinado.
+• 100 — errou, marcou A; gabarito B. Problema principal: não reconheceu corretamente a relação entre pressão, área de contato e massa.
+• 114 — errou, marcou B; gabarito E. Você informou que não sabia resolver, caracterizando uma lacuna de conteúdo/reconhecimento.
+
+Resultado: 0/3.
+
+Matemática:
+• 146 — acertou, E. Demonstrou domínio do raciocínio de área do círculo.
+• 171 — acertou, D. Demonstrou domínio do método utilizado.
+• 178 — não concluiu. Você identificou que estava gastando tempo demais e decidiu não insistir.
+
+Resultado: 2/2 concluídas; 1 não concluída.
+
+Diagnóstico do B1: novamente apareceu a diferença que já vinha sendo observada na semana passada: Matemática está mais estável, enquanto Natureza apresenta maior dificuldade para identificar o caminho de resolução. Isso reforça o padrão de “não reconhecer o problema → não saber por onde começar → travar”.
+
+Horário 2 — B2
+
+Foram concluídas 2 questões.
+
+• 2019 — 107, Ciências da Natureza: você marcou B e acertou. Conseguiu chegar à força resultante usando F
+R
+	​
+
+=ma, calculando primeiro a aceleração. Porém, precisou consultar as fórmulas de cinemática para montar a resolução. Portanto, não classifico como “acertou e domina”. Registro: acerto com consulta — conteúdo não dominado.
+
+• 2019 — 159, Matemática: você marcou E e acertou. Identificou sozinho o padrão periódico da sequência, percebeu que havia 8 posições por ciclo e utilizou a divisão por 8 para encontrar a posição correspondente a 2015. Acertou e domina.
+
+A questão 152 chegou a ser mencionada durante o B2, mas você pediu para substituí-la, portanto não entra como questão realizada no relatório.
+
+Também não vou registrar as questões 167 e 176, porque elas foram apenas planejadas e você encerrou o estudo antes de realizá-las.
+
+Resumo do dia:
+
+Matemática: desempenho forte novamente. Você acertou 146, 171 e 159, enquanto a 178 não foi concluída. O padrão continua sendo de boa capacidade de raciocínio matemático.
+
+Natureza: desempenho mais fraco no B1, com 0/3, mas o B2 mostrou algo interessante na 107: mesmo sem dominar as fórmulas, você conseguiu construir o raciocínio e chegar à resposta correta depois de consultar o necessário. Isso mostra que existe capacidade de resolução, mas ainda falta automatizar ferramentas básicas de Física.
+
+Principal ponto observado hoje: você consegue raciocinar melhor do que às vezes imagina; o gargalo em algumas questões é reconhecer o modelo/formulação necessária para começar.
+
+Registro final das questões efetivamente feitas hoje:
+
+2019 — 93, 100, 114, 146, 171, 178, 107 e 159.
