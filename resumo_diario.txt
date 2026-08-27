@@ -47,3 +47,93 @@ Principal ponto observado hoje: você consegue raciocinar melhor do que às veze
 Registro final das questões efetivamente feitas hoje:
 
 2019 — 93, 100, 114, 146, 171, 178, 107 e 159.
+
+
+
+26/08/2026
+# RELATÓRIO DIÁRIO DE ESTUDOS — 26/08/2026
+
+## Questões realizadas
+
+Hoje foram trabalhadas 12 questões do ENEM 2025 — Caderno Amarelo:
+
+* Matemática: Q144, Q153, Q162, Q171, Q177
+* Química: Q117, Q121, Q124, Q133
+* Biologia: Q103, Q107, Q131
+
+Observação: a Q121 foi anulada oficialmente e não deve ser contabilizada como acerto ou erro para desempenho.
+
+## Desempenho do dia
+
+Acertos: 5
+Erros: 6
+Anulada: 1
+
+### Acertou e domina
+
+* Q144
+* Q153
+* Q177
+
+### Acertou, mas ainda não domina
+
+* Q107 — acertou sem indicação de domínio consolidado.
+* Q117 — acertou com auxílio de vídeo. Não deve ser considerada questão dominada.
+
+### Questão anulada
+
+* Q121 — marcada corretamente como água. O raciocínio estava relacionado à identificação da água como fonte de elétrons na fotossíntese oxigênica. O conteúdo ainda precisa de consolidação, pois houve bastante dificuldade para interpretar a comparação entre fotossíntese oxigênica e anoxigênica.
+
+### Errou por chute
+
+* Q131 — o aluno eliminou alternativas relacionando doenças a vetores/hospedeiros, mas, após restarem duas possibilidades, escolheu pela aparência da alternativa. Faltou reconhecer a relação entre esquistossomose e molusco hospedeiro intermediário.
+
+### Errou por não reconhecer padrão
+
+* Q162 — reconheceu que deveria selecionar três casais entre dez, chegando a 10 × 9 × 8, mas não estruturou corretamente as escolhas individuais dentro dos casais. Subestimou a questão e tentou resolvê-la mentalmente.
+* Q124 — não conseguiu identificar um caminho de resolução e declarou não saber por onde começar.
+* Q133
+* Q103
+* Q171
+
+## Análise dos erros
+
+O principal ponto observado hoje foi que alguns erros não vieram de falta absoluta de capacidade matemática ou científica, mas de não identificar corretamente a estrutura da questão.
+
+Na Q162, houve reconhecimento parcial do padrão de análise combinatória. O problema foi não perceber que a escolha da pessoa de cada casal representa uma decisão independente para cada um dos três cargos. É um caso importante para revisar o padrão de "escolher grupos + escolher elementos dentro dos grupos".
+
+Na Q131, houve utilização correta da estratégia de eliminação, mas a decisão final foi um chute. É necessário fortalecer o conhecimento sobre agentes etiológicos, vetores e hospedeiros intermediários.
+
+Na Q117, o acerto não representa domínio porque houve necessidade de vídeo para chegar à solução. Deve entrar como conteúdo aprendido, mas ainda não consolidado.
+
+Na Q121, apesar da questão ter sido anulada, o raciocínio conceitual utilizado estava no caminho correto: comparar a substância que fornece elétrons na fotossíntese anoxigênica com a água na fotossíntese oxigênica. O ponto fraco foi a interpretação do processo.
+
+## Conteúdos que merecem revisão
+
+1. Análise combinatória — escolhas sucessivas e princípio multiplicativo.
+2. Doenças — agente etiológico, vetor e hospedeiro intermediário.
+3. Fotossíntese oxigênica e anoxigênica.
+4. Conteúdo específico da Q117, que ainda não está consolidado.
+5. Conteúdos cobrados nas Q124, Q133, Q103 e Q171 após a correção detalhada.
+
+## Diagnóstico geral
+
+O desempenho bruto foi de 5 acertos em 11 questões válidas, aproximadamente 45,5%.
+
+Esse percentual isolado não deve ser utilizado como estimativa de nota TRI. A seleção de hoje foi deliberadamente mais pesada e priorizou questões de maior valor diagnóstico.
+
+O ponto positivo foi que vários erros puderam ser explicados pelo processo de resolução, permitindo identificar padrões específicos de falha. O principal objetivo agora é transformar esses padrões em reconhecimento automático nas próximas questões.
+
+## Registro para o próximo estudo
+
+Priorizar:
+
+* revisão de análise combinatória;
+* revisão de doenças e relações vetor/hospedeiro;
+* revisão de fotossíntese oxigênica e anoxigênica;
+* retomada dos conteúdos das questões em que não houve reconhecimento do caminho de resolução.
+
+As 12 questões de hoje devem ser adicionadas à lista de questões resolvidas, mantendo a Q121 identificada como anulada.
+
+Importante: novas questões só devem ser selecionadas depois de verificar diretamente o Caderno Amarelo no repositório. Caso o conteúdo das questões não esteja acessível pelo repositório, perguntar ao aluno antes de selecionar questões por fonte externa.
+
