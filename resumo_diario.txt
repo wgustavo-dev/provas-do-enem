@@ -137,3 +137,60 @@ As 12 questões de hoje devem ser adicionadas à lista de questões resolvidas, 
 
 Importante: novas questões só devem ser selecionadas depois de verificar diretamente o Caderno Amarelo no repositório. Caso o conteúdo das questões não esteja acessível pelo repositório, perguntar ao aluno antes de selecionar questões por fonte externa.
 
+Claro, seu Augusto. Vou registrar o dia de hoje separando corretamente **erro de conhecimento** de **erro de anotação**, porque isso é fundamental para o nosso diagnóstico.
+
+RELATÓRIO DIÁRIO DE ESTUDOS — 28/08/2026
+
+Horário 1 — Bloco 1
+
+Foram trabalhadas 6 questões selecionadas inicialmente para investigar padrões de dificuldade:
+
+• **2019 — Q145:** acertou. Demonstrou reconhecimento do caminho de resolução.
+Classificação: **acertou e domina**.
+
+• **2019 — Q146:** acertou. Demonstrou domínio do raciocínio envolvendo área do círculo.
+Classificação: **acertou e domina**.
+
+• **2018 — Q142:** errou. Você confirmou que realmente estava em dúvida e considerou a resposta errada.
+Classificação: **erro de conteúdo/reconhecimento do padrão**.
+Observação: o padrão envolve produtividade, área e produção total.
+
+• **2023 — Q91:** você inicialmente registrou A, mas esclareceu que **sabia que a resposta correta era C** e apenas anotou a alternativa errada.
+Classificação: **acertou — erro de anotação**.
+Não entra como dificuldade de Física.
+
+• **2023 — Q92:** você registrou E, mas esclareceu que **tinha certeza de que a resposta era A** e novamente foi apenas um erro de anotação.
+Classificação: **acertou — erro de anotação**.
+Não entra como dificuldade sobre espectro de cores.
+
+• **2024 — Q91:** acertou.
+Classificação: **acertou**.
+
+Resultado real do B1: **5 acertos em conhecimento + 1 erro real**.
+Os dois registros incorretos de alternativa nas Q91 e Q92 não serão contabilizados como erros de conteúdo.
+
+Principal dificuldade identificada hoje: **Q142/2018 — reconhecer a estrutura de problemas envolvendo produtividade, área e produção.**
+
+Horário 2 — Bloco 2
+
+O B2 foi planejado seguindo o método:
+
+**conceito → exemplo criado → 1 questão real → correção.**
+
+O conceito escolhido seria produtividade, área e produção. Porém, você informou que estava **esgotado e sem condições de resolver outra questão**.
+
+Classificação: **B2 não realizado por cansaço.**
+
+Não será registrado como erro, falta de conhecimento ou falta de disciplina.
+
+Resumo do dia:
+
+**Questões trabalhadas:** 6
+**Acertos reais:** 5
+**Erros reais:** 1
+**Erros de anotação:** 2
+**B2:** não realizado por esgotamento
+
+Diagnóstico de hoje: o desempenho foi melhor do que o registro inicial fazia parecer. Das seis questões analisadas, somente a **2018-Q142** apresentou uma dificuldade real de resolução. As Q91 e Q92 de 2023 foram apenas erros de transcrição da alternativa.
+
+Para o próximo estudo, o B2 deve retomar exatamente do ponto em que paramos: **explicar o padrão da dificuldade → exemplo criado → uma única questão real para você resolver**.
