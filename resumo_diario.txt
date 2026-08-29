@@ -194,3 +194,401 @@ Resumo do dia:
 Diagnóstico de hoje: o desempenho foi melhor do que o registro inicial fazia parecer. Das seis questões analisadas, somente a **2018-Q142** apresentou uma dificuldade real de resolução. As Q91 e Q92 de 2023 foram apenas erros de transcrição da alternativa.
 
 Para o próximo estudo, o B2 deve retomar exatamente do ponto em que paramos: **explicar o padrão da dificuldade → exemplo criado → uma única questão real para você resolver**.
+
+
+# RELATÓRIO DIÁRIO DE ESTUDO — 28/08/2026
+
+## Objetivo do estudo
+
+O estudo de hoje priorizou **Química e Biologia**, seguindo o histórico de erros e evitando questões já realizadas anteriormente.
+
+A estratégia utilizada foi:
+
+**conceito → exemplo criado → questão real do ENEM → resposta do aluno → correção → identificação do padrão de erro/acerto.**
+
+O foco principal foi trabalhar questões que apresentassem padrões semelhantes aos erros anteriores, em vez de simplesmente selecionar questões aleatórias.
+
+---
+
+## QUESTÕES TRABALHADAS
+
+### Química — ENEM 2020 — Q103
+
+**Resposta:** D — Extração
+**Resultado:** ACERTO
+
+O aluno identificou que a etapa de extração utiliza **hexano como solvente**.
+
+Conceito trabalhado:
+
+* Hexano → substância apolar.
+* Óleo vegetal → predominantemente apolar.
+* Substâncias de polaridade semelhante apresentam maior afinidade.
+* Portanto, o hexano consegue dissolver o óleo durante a extração.
+* A destilação posterior utiliza principalmente a diferença de temperatura de ebulição para separar óleo e solvente.
+
+Foi observado que o aluno inicialmente havia confundido o etanol com uma substância apolar. Esse ponto foi corrigido.
+
+**Ponto a consolidar:** analisar a molécula como um todo e não concluir que uma substância é apolar apenas pela presença de uma cadeia carbônica.
+
+---
+
+### Exercício conceitual — Polaridade e solubilidade
+
+Foram comparados:
+
+A — H₂O
+B — C₂H₅OH
+C — óleo vegetal
+
+Pergunta: qual seria mais adequado para dissolver uma substância apolar?
+
+**Resposta do aluno:** B — incorreta.
+
+O aluno justificou que o etanol seria apolar.
+
+Correção:
+
+* H₂O → polar.
+* C₂H₅OH → polar.
+* Óleo vegetal → predominantemente apolar.
+
+Portanto, entre as três opções, o óleo seria o mais compatível com uma substância apolar.
+
+**Erro identificado:** confusão entre cadeia carbônica e polaridade molecular.
+
+---
+
+### Química — ENEM 2023 — Q121
+
+**Resposta trabalhada no exercício:** C
+**Resultado:** ACERTO
+
+Conceito trabalhado: **ionização/protonação e solubilidade em água**.
+
+Foi demonstrado que uma molécula orgânica inicialmente neutra pode receber H⁺ e formar uma espécie carregada:
+
+R₃N + HCl → (R₃NH)⁺ Cl⁻
+
+A presença de carga favorece a interação com a água, que é polar.
+
+O aluno identificou corretamente que o aumento da solubilidade está relacionado ao **caráter iônico** da espécie.
+
+**Classificação:** acertou e reconheceu o padrão.
+
+---
+
+### Química — ENEM 2019 — Q108
+
+**Resposta inicial:** A
+**Resultado:** ERRO
+
+O aluno justificou inicialmente que os compostos que ficavam mais ao fundo e eram mais densos necessitariam de mais calor para serem extraídos.
+
+O conceito correto identificado durante a revisão foi:
+
+**maior cadeia carbônica → maior número de elétrons/maior área de contato → forças de dispersão de London mais intensas → maior temperatura de ebulição.**
+
+O fator determinante da questão não era simplesmente a densidade.
+
+O gabarito correto da questão é:
+
+**D — as forças intermoleculares são mais intensas.**
+
+Após a correção, foi feito um exercício de fixação com:
+
+A — CH₄
+B — C₈H₁₈
+C — C₁₆H₃₄
+
+O aluno respondeu:
+
+**A → B → C**
+
+para a ordem crescente de temperatura de ebulição.
+
+**Resultado do exercício:** ACERTO.
+
+**Classificação final:** inicialmente errou por não reconhecer o padrão; após a aula, conseguiu identificar corretamente a relação entre tamanho da cadeia, forças intermoleculares e temperatura de ebulição.
+
+**Conceito consolidado:** forças de dispersão de London em hidrocarbonetos.
+
+---
+
+### Biologia — ENEM 2019 — Q96
+
+**Resposta:** E
+**Resultado:** ACERTO
+
+O aluno justificou que a vacina é uma medida preventiva.
+
+Conceito revisado:
+
+**vacina → prevenção/imunização → desenvolvimento de resposta imunológica e memória.**
+
+Foi reforçada a diferença entre:
+
+* vacina → imunização ativa/prevenção;
+* soro → anticorpos prontos/imunização passiva;
+* antibiótico → utilizado contra bactérias sensíveis, não contra vírus.
+
+**Classificação:** acertou e domina o conceito.
+
+---
+
+### Biologia — ENEM 2023 — Q105
+
+**Resposta:** B
+**Resultado:** ACERTO POR CHUTE
+
+O aluno declarou que imaginou que a doença fosse semelhante à raiva e escolheu B.
+
+Portanto, apesar do acerto, não houve domínio comprovado do mecanismo da questão.
+
+Foi identificada a necessidade de revisar doenças através do ciclo epidemiológico, evitando simplesmente associar uma doença a outra.
+
+**Classificação:** acerto por chute.
+
+---
+
+### Biologia — ENEM 2020 — Q117
+
+**Resposta:** E
+**Resultado:** ACERTO COM RECONHECIMENTO PARCIAL
+
+O aluno analisou o esquema e observou que havia maior quantidade de bactérias em determinada região do espectro luminoso.
+
+O raciocínio apresentado foi baseado principalmente na leitura do gráfico/esquema.
+
+Foi identificado que ainda era necessário consolidar o mecanismo:
+
+**comprimento de onda → absorção de luz pelos pigmentos → intensidade da fotossíntese → distribuição/concentração dos organismos.**
+
+**Classificação:** acerto com reconhecimento parcial; mecanismo ainda precisa ser consolidado.
+
+---
+
+# AULA ESPECÍFICA — DOENÇAS
+
+Foi realizada uma aula completa sobre doenças com foco em interpretação de questões do ENEM.
+
+O principal método ensinado foi:
+
+**DOENÇA → AGENTE → TRANSMISSÃO → VETOR/HOSPEDEIRO → PREVENÇÃO**
+
+### Principais grupos de agentes
+
+**Vírus**
+
+* Dengue
+* Febre amarela
+* Raiva
+* Influenza
+* COVID-19
+* Sarampo
+* HIV/AIDS
+
+**Bactérias**
+
+* Tuberculose
+* Cólera
+* Leptospirose
+* Sífilis
+* Tétano
+* Hanseníase
+
+**Protozoários**
+
+* Malária
+* Doença de Chagas
+* Leishmaniose
+
+**Helmintos**
+
+* Esquistossomose
+* Teníase
+* Cisticercose
+* Ascaridíase
+* Ancilostomose
+
+### Relações importantes revisadas
+
+**Dengue**
+
+* vírus
+* Aedes aegypti
+* transmissão por picada
+* prevenção pelo controle do vetor e dos criadouros
+
+**Malária**
+
+* Plasmodium
+* Anopheles
+* transmissão pela picada do mosquito
+
+**Doença de Chagas**
+
+* Trypanosoma cruzi
+* barbeiro
+* transmissão clássica relacionada às fezes contaminadas do vetor
+
+**Leishmaniose**
+
+* Leishmania
+* mosquito-palha/flebotomíneo
+* transmissão por picada
+
+**Raiva**
+
+* vírus
+* animal infectado como fonte de exposição
+* saliva, principalmente por mordida
+* não possui mosquito como vetor
+
+**Tuberculose**
+
+* bactéria
+* transmissão respiratória
+
+**Cólera**
+
+* bactéria
+* água/alimentos contaminados
+* transmissão fecal-oral
+* saneamento como medida fundamental de prevenção
+
+**Esquistossomose**
+
+* Schistosoma mansoni
+* helminto
+* caramujo Biomphalaria como hospedeiro intermediário
+* água contaminada
+* penetração ativa pela pele
+* saneamento e controle do ciclo como prevenção
+
+**Teníase**
+
+* ingestão de carne contendo larvas
+* tênia adulta no intestino
+
+**Cisticercose**
+
+* ingestão de ovos de Taenia solium
+* desenvolvimento de larvas nos tecidos
+
+---
+
+## Exercício de fixação — Doenças
+
+Foi apresentada a seguinte situação:
+
+Uma doença causada por um parasita passa parte do ciclo em um molusco de água doce e posteriormente consegue penetrar pela pele humana durante o contato com água contaminada.
+
+**Resposta do aluno:**
+
+* Doença: esquistossomose
+* Hospedeiro intermediário: caramujo
+* Prevenção: saneamento
+
+**Resultado:** ACERTO.
+
+O aluno conseguiu reconstruir corretamente o ciclo epidemiológico.
+
+### Correção importante registrada
+
+Durante a aula, foi utilizado inicialmente o termo “protozoário” para descrever o agente da esquistossomose. Essa classificação estava incorreta.
+
+O correto é:
+
+**Schistosoma mansoni → helminto (verme parasita).**
+
+Esse erro foi corrigido durante a própria sessão e deve ser considerado corrigido no registro de conhecimento.
+
+---
+
+# MAPA MENTAL CONSOLIDADO — DOENÇAS
+
+Ao encontrar uma questão sobre doenças:
+
+**1. QUEM CAUSA?**
+→ vírus
+→ bactéria
+→ protozoário
+→ helminto
+
+**2. COMO TRANSMITE?**
+→ ar
+→ água/alimento
+→ contato
+→ sangue
+→ picada
+→ fezes contaminadas
+→ saliva etc.
+
+**3. EXISTE VETOR?**
+→ mosquito
+→ barbeiro
+→ mosquito-palha
+→ outro organismo
+
+**4. EXISTE HOSPEDEIRO INTERMEDIÁRIO?**
+→ exemplo: caramujo na esquistossomose
+
+**5. COMO INTERROMPER O CICLO?**
+→ vacina
+→ saneamento
+→ controle do vetor
+→ higiene
+→ tratamento
+→ evitar exposição
+
+---
+
+# DIAGNÓSTICO DO DIA
+
+### Acertos consolidados
+
+* 2020 Q103 — polaridade/extração
+* 2023 Q121 — ionização/solubilidade
+* 2019 Q96 — vacina/prevenção
+* Exercício sobre forças intermoleculares — cadeia maior → London mais intensa
+* Exercício sobre esquistossomose — ciclo epidemiológico
+
+### Erros ou pontos de atenção
+
+* Confusão inicial entre etanol e apolaridade.
+* 2019 Q108 — explicação inicial baseada em densidade, quando o conceito correto era força intermolecular.
+* 2023 Q105 — acerto por chute.
+* 2020 Q117 — leitura correta do esquema, mas mecanismo biológico ainda parcialmente consolidado.
+
+### Conceitos trabalhados hoje
+
+* Polaridade molecular.
+* Solubilidade.
+* “Semelhante dissolve semelhante”.
+* Ionização e solubilidade.
+* Forças de dispersão de London.
+* Relação entre tamanho da cadeia e temperatura de ebulição.
+* Vacinas e imunização.
+* Agente etiológico, vetor e hospedeiro.
+* Ciclos de transmissão de doenças.
+* Saneamento e prevenção.
+* Esquistossomose.
+* Relação entre comprimento de onda e fotossíntese.
+
+## Situação ao final do estudo
+
+O principal avanço de hoje foi transformar alguns padrões que anteriormente dependiam de associação ou chute em **processos de raciocínio**.
+
+Em Química, o padrão de forças intermoleculares foi corrigido e testado com sucesso.
+
+Em Biologia, o aluno demonstrou capacidade de reconstruir corretamente um ciclo epidemiológico a partir de pistas, como ocorreu no exercício da esquistossomose.
+
+### Pendências para próxima sessão
+
+1. Retomar a **2023 Q105** e verificar se o aluno consegue explicar a resposta sem utilizar associação/chute.
+2. Consolidar o mecanismo da **2020 Q117**, especialmente a relação entre espectro luminoso, pigmentos e fotossíntese.
+3. Continuar priorizando questões de **Química e Biologia** baseadas nos padrões de erro identificados.
+4. Evitar repetir questões já realizadas.
+5. Manter o método:
+   **conceito → exemplo → questão real → correção → classificação do tipo de acerto/erro.**
