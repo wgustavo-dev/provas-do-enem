@@ -1,0 +1,82 @@
+Claro. Segue a lista limpa em formato `.txt`, separada por semana e sem duplicatas dentro da lista.
+
+```txt
+QUESTÕES JÁ RESOLVIDAS/CORRIGIDAS — ENEM
+
+SEMANA 1 — 17/08 a 21/08/2026
+
+2016 — Q136
+2017 — Q145
+2018 — Q149
+2022 — Q163
+2023 — Q176
+2024 — Q156
+
+2016 — Q109
+2017 — Q108
+2018 — Q100
+2022 — Q113
+2023 — Q113
+2024 — Q110
+
+2019 — Q142
+2020 — Q158
+2021 — Q174
+
+2019 — Q105
+2020 — Q116
+2021 — Q128
+
+
+SEMANA 2 — 24/08 a 28/08/2026
+
+2019 — Q93
+2019 — Q100
+2019 — Q114
+2019 — Q146
+2019 — Q171
+2019 — Q178
+2019 — Q107
+2019 — Q159
+
+2025 — Q144
+2025 — Q153
+2025 — Q162
+2025 — Q171
+2025 — Q177
+2025 — Q117
+2025 — Q121 — ANULADA
+2025 — Q124
+2025 — Q133
+2025 — Q103
+2025 — Q107
+2025 — Q131
+
+2019 — Q145
+2018 — Q142
+2023 — Q91
+2023 — Q92
+2024 — Q91
+
+2020 — Q103
+2023 — Q121
+2019 — Q108
+2019 — Q96
+2023 — Q105
+2020 — Q117
+
+
+TOTAL
+
+Semana 1: 18 questões distintas
+Semana 2: 31 questões distintas
+
+TOTAL GERAL: 49 QUESTÕES DISTINTAS
+
+OBSERVAÇÕES
+
+- 2019 — Q146 apareceu novamente em 28/08, mas já havia sido realizada em 24/08.
+- 2025 — Q121 foi anulada oficialmente.
+- Questões apenas planejadas e não realizadas não entram nesta lista.
+- Esta lista deve ser usada para impedir a seleção futura de questões já resolvidas/corrigidas.
+```
