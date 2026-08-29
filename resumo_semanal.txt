@@ -1,4 +1,4 @@
-Sim. Vou fazer seguindo exatamente a classificação fechada que definimos no protocolo e, principalmente, sem transformar “travou” ou “questão difícil” em uma categoria inventada.
+
 
 # Relatório semanal — ENEM
 
@@ -181,3 +181,48 @@ Essas questões precisam continuar no radar, mas sem serem novamente selecionada
 **Natureza:** 12 questões registradas na semana recuperada, com concentração maior de erros e travamentos.
 
 O dado mais importante da semana não é simplesmente a porcentagem de acertos. É que conseguimos identificar **onde você realmente está perdendo pontos**: em Natureza, especialmente quando não reconhece o padrão da questão; em Matemática, muito mais por velocidade/reconhecimento do que por falta geral de conteúdo.
+
+# RELATÓRIO SEMANAL — ENEM
+
+**Período: 24/08 a 28/08/2026**
+
+A segunda semana de estudos representou uma evolução importante no método de preparação. O foco deixou de ser apenas resolver questões e contabilizar acertos e passou a ser identificar o processo utilizado em cada questão: se houve domínio, intuição, chute, falta de atenção, falta de conteúdo ou dificuldade em reconhecer o padrão de resolução.
+
+Durante a semana, foram priorizadas questões reais do ENEM, principalmente do segundo dia, com maior atenção para Ciências da Natureza e, especialmente ao final da semana, para Química e Biologia. A Matemática continuou sendo utilizada como referência de desempenho e para trabalhar velocidade e reconhecimento de padrões.
+
+O principal diagnóstico confirmado no início da semana foi a diferença entre Matemática e Ciências da Natureza. Em Matemática, o desempenho permaneceu mais estável, com vários acertos demonstrando domínio do método. Em Natureza, apareceram mais dificuldades relacionadas ao reconhecimento do caminho de resolução: não reconhecer o modelo da questão levava a não saber por onde começar e, consequentemente, ao travamento. Esse padrão já havia aparecido na semana anterior e foi novamente confirmado.
+
+No dia 24/08, foram trabalhadas oito questões da prova de 2019. Em Matemática, houve três acertos e uma questão não concluída; em Ciências da Natureza, as três questões do primeiro bloco foram erradas, enquanto uma questão de Física do segundo bloco foi acertada com consulta às fórmulas. A questão 2019-159 mostrou domínio de padrões periódicos e confirmou a maior estabilidade matemática. Já a 2019-107 mostrou que existe capacidade de raciocínio em Física mesmo quando as ferramentas matemáticas ainda não estão automatizadas. O principal gargalo identificado continuou sendo o reconhecimento do modelo necessário para iniciar a resolução.
+
+No dia 26/08, foram trabalhadas doze questões do ENEM 2025, com foco mais diagnóstico. Foram identificadas dificuldades específicas em análise combinatória, doenças, fotossíntese e outros conteúdos de Ciências da Natureza. A questão 2025-162 foi particularmente importante porque houve reconhecimento parcial da estrutura combinatória, mas não da etapa de escolha dos indivíduos dentro dos grupos. Isso mostrou que o problema não era ausência total de raciocínio, mas uma falha em estruturar completamente o modelo matemático.
+
+Em Biologia, a questão 2025-131 revelou uma tendência a utilizar eliminação corretamente e depois escolher por aparência quando restavam poucas alternativas. Isso levou à revisão de agentes etiológicos, vetores e hospedeiros intermediários. A questão 2025-117 foi acertada com auxílio de vídeo e, por isso, não foi considerada dominada. A questão 2025-121 foi anulada e permaneceu registrada separadamente, sem entrar no cálculo de desempenho.
+
+A partir desses resultados, o estudo passou a incorporar aulas conceituais antes da questão real. O procedimento consolidado passou a ser:
+
+**conceito → exemplo criado → questão real do ENEM → resposta → correção → classificação do acerto/erro → registro do padrão.**
+
+No dia 28/08, essa metodologia foi aplicada de maneira mais completa, principalmente em Química e Biologia. Em Química, foram trabalhados polaridade, solubilidade, extração, ionização e forças intermoleculares. A questão 2019-108 foi particularmente relevante porque o erro inicial foi associado à densidade, mas a correção mostrou que o conceito realmente necessário era a relação entre tamanho da cadeia carbônica, forças de dispersão de London e temperatura de ebulição. Depois da explicação, o padrão foi testado em um exercício criado e resolvido corretamente.
+
+Também foi identificado um erro conceitual sobre polaridade: inicialmente houve associação entre uma cadeia carbônica e uma substância apolar, levando à classificação incorreta do etanol. A correção reforçou que a polaridade deve ser analisada considerando a molécula como um todo, e não apenas a presença de uma cadeia carbônica.
+
+Em Biologia, o estudo avançou para uma aula completa sobre doenças. Foi estruturado um método de reconhecimento baseado em:
+
+**doença → agente → transmissão → vetor/hospedeiro → prevenção.**
+
+Foram revisados vírus, bactérias, protozoários e helmintos, além de doenças como dengue, malária, doença de Chagas, leishmaniose, raiva, tuberculose, cólera, esquistossomose, teníase e cisticercose. O exercício de fixação sobre esquistossomose foi resolvido corretamente, com identificação da doença, do caramujo como hospedeiro intermediário e do saneamento como medida preventiva. Também foi corrigida uma classificação anterior: o *Schistosoma mansoni* é um helminto, e não um protozoário.
+
+Outro avanço importante foi separar erros reais de erros de anotação. Nas questões 2023-91 e 2023-92 trabalhadas em 28/08, as alternativas inicialmente registradas estavam erradas, mas foi esclarecido que o aluno conhecia as respostas corretas e apenas anotou as letras incorretamente. Portanto, esses registros não foram tratados como falhas de conteúdo. Essa distinção é importante para que o diagnóstico não fique artificialmente pior.
+
+A segunda semana também consolidou uma regra importante de gestão de tempo. Quando uma questão exige tempo desproporcional sem que o caminho de resolução esteja sendo identificado, ela não deve consumir toda a sessão. A questão 2019-178, por exemplo, foi abandonada conscientemente depois de perceber que estava consumindo tempo demais. Isso não foi registrado como erro de conteúdo.
+
+O diagnóstico final da semana é que a principal dificuldade não está simplesmente em “não saber”. Em diversas situações, existe capacidade de raciocínio, mas falta reconhecer rapidamente qual ferramenta ou modelo deve ser utilizado. Em Matemática, esse problema aparece principalmente como questão de velocidade e reconhecimento, enquanto em Ciências da Natureza ele ainda é acompanhado por lacunas reais de conteúdo.
+
+Química apresentou avanços importantes ao longo da semana, especialmente nos conceitos de polaridade, solubilidade e forças intermoleculares. Biologia também mostrou evolução após a criação de um modelo sistemático para analisar doenças. Física continua exigindo automatização de fórmulas e reconhecimento de modelos, enquanto conteúdos como estequiometria e trigonometria permanecem como pontos de atenção identificados na semana anterior.
+
+Ao final da segunda semana, o método está mais maduro: não basta saber se uma questão foi certa ou errada; precisamos saber **por que** ela foi resolvida daquela maneira e se o conhecimento pode ser reproduzido em uma questão nova.
+
+As prioridades para a próxima etapa são consolidar os conteúdos trabalhados em Química e Biologia, retomar questões que revelaram acertos por chute ou reconhecimento parcial, continuar trabalhando o reconhecimento de padrões em Ciências da Natureza e manter a regra de não selecionar novamente questões que já foram corrigidas.
+
+O principal ganho da segunda semana foi, portanto, transformar o estudo de uma sequência de questões em um sistema de diagnóstico e treinamento. O objetivo passa a ser fazer com que o reconhecimento que hoje acontece depois da explicação passe a acontecer automaticamente diante de uma nova questão do ENEM.
+
