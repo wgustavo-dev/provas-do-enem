@@ -592,3 +592,64 @@ Em Biologia, o aluno demonstrou capacidade de reconstruir corretamente um ciclo 
 4. Evitar repetir questões já realizadas.
 5. Manter o método:
    **conceito → exemplo → questão real → correção → classificação do tipo de acerto/erro.**
+
+02/09/26
+Claro, seu Augusto. Fechando o expediente de quarta-feira:
+
+**RELATÓRIO DE ESTUDOS — QUARTA-FEIRA**
+
+**Simulado ENEM**
+
+* Realizou um simulado na escola.
+* Respondeu **38 questões**.
+* Principal dificuldade identificada: **Química**, especialmente **compostos orgânicos e inorgânicos** e reconhecimento de funções orgânicas.
+* Diagnóstico: conteúdo já estudado anteriormente, mas com baixa fixação.
+
+**Química — Funções orgânicas**
+Trabalhamos reconhecimento estrutural de:
+
+* Álcool
+* Fenol
+* Aldeído
+* Cetona
+* Ácido carboxílico
+* Éter
+* Éster
+* Amina
+* Amida
+
+Resultado do treinamento:
+
+* Primeira rodada: **4/8**
+* Segunda rodada, com apoio do caderno: **9/10**
+* Terceira rodada, sem caderno: **8/10**
+* Rodada específica de éster/amida: apresentou confusão entre **amina e amida**.
+
+Principais regras reforçadas:
+
+* Aldeído: carbonila na extremidade, `R–CHO`.
+* Cetona: carbonila entre dois carbonos, `R–CO–R`.
+* Éster: `C=O` ligado a `O`.
+* Amida: `C=O` ligado a `N`.
+* Amina: nitrogênio sem carbonila diretamente ligada a ele.
+* Fenol: `–OH` diretamente ligado ao anel aromático.
+
+**Conclusão do diagnóstico:** o reconhecimento de álcool, fenol, aldeído, cetona, éter, ácido carboxílico e amina está começando a ficar mais sólido. **Éster × amida × amina** precisa de mais fixação.
+
+**Redação**
+
+* A redação continua em andamento a partir do trabalho realizado ontem.
+* Para hoje, a tarefa correta seria apenas **finalizar a conclusão**, já que introdução e os dois desenvolvimentos já haviam sido trabalhados anteriormente.
+* Como você encerrou a sessão antes dessa etapa, ela fica para a próxima oportunidade.
+
+**Plano para quinta-feira**
+
+* Retomar Química.
+* Reforçar principalmente **amina × amida × éster**.
+* Expandir o reconhecimento das funções orgânicas.
+* Começar a levar o conteúdo para **questões reais do ENEM**, saindo gradualmente das estruturas isoladas.
+* Continuar o treino de redação sem refazer o que já foi produzido.
+
+**Status do dia:** simulado + diagnóstico + treino de Química concluídos.
+**Agora:** descanso. O domingo continua oficialmente reservado para descanso total.
+
